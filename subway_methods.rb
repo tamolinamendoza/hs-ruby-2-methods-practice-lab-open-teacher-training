@@ -19,4 +19,4 @@ puts "The train dancers should really"
 # call your method here
 puts "That guy kept shouting"
 # call your method here
-puts "This is how any trips I have left"
+puts "This is how many trips I have left"
