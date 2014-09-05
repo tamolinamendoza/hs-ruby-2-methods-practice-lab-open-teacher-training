@@ -1,6 +1,9 @@
 # A subway story
 
 # You hop on the subway at Union Square. It takes about 156 seconds to go between stops and you'll be taking the train for 3 stops. Write a method that calculates how long your trip will take and puts it. 
+def trip_length
+  #  put your code here
+end
 
 # While you are waiting for the train you decide to play a little dice. Create a method roll that puts a random number between 1 and 6 (feel free to google "how to generate a random number in ruby").
 
