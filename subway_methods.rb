@@ -28,6 +28,16 @@ end
 # You are almost at your stop and you start thinking about how you are going to get home. You have $18 dollars left on your metro card. Write a method called remaining_trips that puts how many trips you have left.
 
 
+# There is also a really enthusiastic rider who keeps shouting "Everything is awesome!" Write a method that puts everything is awesome 5 times. (Ruby has a times method that can help you do this.)
+
+
+
+
+
+# You are almost at your stop and you start thinking about how you are going to get home. You have $18 dollars left on your metro card. Write a method that puts how many trips you have left.
+
+
+
 
 # Call your methods below:
 puts "How big is that subway map?"
