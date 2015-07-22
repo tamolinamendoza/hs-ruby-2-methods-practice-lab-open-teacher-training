@@ -39,7 +39,7 @@ describe 'Subway Methods' do
     # to make sure the correct output has been puts'ed.		
 			# Based on "Arbitrary Handling" section of http://www.rubydoc.info/gems/rspec-mocks/frames
 			expect($stdout).to receive(:puts) do |val|
-				expect(/^\d$/).to match(val.to_s)
+				expect(/\b\d\b/).to match(val.to_s)
 			end
 			roll
 		end
@@ -48,7 +48,7 @@ describe 'Subway Methods' do
 		# This line checks the current standard output (your terminal screen)
     # to make sure the correct output has been puts'ed.
 			expect($stdout).to receive(:puts) do |val|
-				expect(/^[1-9]$/).to match(val.to_s)
+				expect(/\b[1-9]\b/).to match(val.to_s)
 			end
 			roll			
 		end
@@ -57,7 +57,7 @@ describe 'Subway Methods' do
 		# This line checks the current standard output (your terminal screen)
     # to make sure the correct output has been puts'ed.
 			expect($stdout).to receive(:puts) do |val|
-				expect(/^[0-6]$/).to match(val.to_s)
+				expect(/\b[0-6]\b/).to match(val.to_s)
 			end
 			roll						
 		end
