@@ -1,9 +1,4 @@
----
-tags: methods, return values, kids, ruby
-language: ruby
-level: 1
-type: lab
----
+
 
 # A Subway Story
 
