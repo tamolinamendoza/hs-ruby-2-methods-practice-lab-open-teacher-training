@@ -25,17 +25,7 @@ end
 # There is also a really enthusiastic rider who keeps shouting "Everything is awesome!" Write a method called everything_is_awesome that returns everything is awesome 5 times. (Ruby has a times method that can help you do this.)
 
 
-# You are almost at your stop and you start thinking about how you are going to get home. You have $18 dollars left on your metro card. Write a method called remaining_trips that return how many trips you have left.
-
-
-# There is also a really enthusiastic rider who keeps shouting "Everything is awesome!" Write a method that returns everything is awesome 5 times. (Ruby has a times method that can help you do this.)
-
-
-
-
-
-# You are almost at your stop and you start thinking about how you are going to get home. You have $18 dollars left on your metro card. Write a method that returns how many trips you have left.
-
+# You are almost at your stop and you start thinking about how you are going to get home. You have $18 dollars left on your metro card (For those of you not in New York, the price of a metro card is now $2.75). Write a method called remaining_trips that return how many trips you have left.
 
 
 
