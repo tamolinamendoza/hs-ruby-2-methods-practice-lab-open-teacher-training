@@ -27,7 +27,7 @@ describe "Subway Methods" do
 
   describe "#stop_dancing" do
     it "returns an all uppercased string" do
-      expect(roll).to eq(roll.upcase)
+      expect(stop_dancing).to eq(stop_dancing.upcase)
     end
   end
 
