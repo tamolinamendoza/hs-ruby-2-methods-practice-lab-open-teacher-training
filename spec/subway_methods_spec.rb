@@ -39,7 +39,7 @@ describe "Subway Methods" do
 
   describe "#remaining_trips" do
     it "Returns the correct number of remaining trips" do
-      expect(everything_is_awesome.scan(/Everything/).count).to eq("There are 6 trips left on the MetroCard.")
+      expect(remaining_trips).to eq("There are 6 trips left on the MetroCard.")
     end
   end
 
