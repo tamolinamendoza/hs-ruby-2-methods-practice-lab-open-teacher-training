@@ -9,7 +9,7 @@ describe "Subway Methods" do
 
   describe "#trip_length" do
     it "shows the correct size of the subway map" do
-      expect(trip_length).to eq("The trip will take 459 seconds.")
+      expect(trip_length).to eq("The trip will take 468 seconds.")
     end
   end
 
