@@ -9,3 +9,5 @@ Fork and clone this lab and follow the instructions in `subway_methods.rb` to wr
 The first method is written out for you as an example. Don't forget to run your program after you are done.
 
 Note: The price of one ride on the NYC Subway system is $2.75
+
+<a href='https://learn.co/lessons/hs-ruby-2-methods-practice-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
